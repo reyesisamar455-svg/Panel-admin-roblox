@@ -1,12 +1,13 @@
-proyecto/
+Panel-admin-roblox/
  ├── web/
  │    ├── index.html
  │    ├── script.js
- │    └── style.css
+ │    ├── style.css
  │
  ├── server/
  │    ├── server.js
  │    ├── config.json
  │    ├── juego.rbxl
- │    └── package.json# Panel-admin-roblox
-Un panel de control
+ │    ├── package.json
+ │
+ ├── README.md
